@@ -1,4 +1,4 @@
-# 👋 Hi, SalahudeenSailas From Sri Lanka 🇱🇰
+# 👋 Hi,Salahudeen Sailas From Sri Lanka 🇱🇰
 <br><br>A passionate Full Stack Developer 💻 who loves creating seamless, dynamic web applications. From designing intuitive front-end interfaces to building robust back-end systems, I enjoy the complete development process.<br><br>📚 Currently Learning<br>Studying Full Stack Development at SLGTi, honing my skills in modern web technologies and software development practices.<br><br>🚀 Skills & Technologies<br><br>Frontend:<br>🌐 HTML, CSS, JavaScript<br>🛠 Frameworks: Bootstrap, Angular<br><br>Backend:<br>🖥️ C#, .NET, Entity Framework<br>💾 Database: MS SQL Server<br><br>🔧 I thrive on solving problems and building solutions that bridge the gap between user experience and backend functionality. I’m committed to writing clean, maintainable code while continuously improving my skillset 💡.<br><br>🌟 Let's collaborate and create something amazing together! 🚀
 
 
